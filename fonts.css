@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Futura Book';
+  src: url('Futura Book.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bembo STD';
+  src: url('Bembo Std Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
